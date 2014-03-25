@@ -844,10 +844,10 @@ span + .edit-link:before,
 
 .site-title {
 	float: left;
-	font-size: 18px;
+	font-size: 39px;
 	font-weight: 700;
 	line-height: 48px;
-	margin: 0;
+	margin: auto;
 }
 
 .site-title a,
